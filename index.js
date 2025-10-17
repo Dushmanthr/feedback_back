@@ -11,10 +11,10 @@ app.use(express.json());
 
 // Database configuration
 const dbConfig = {
-  host: 'localhost',
-  user: 'root',
-  password: '', 
-  database: 'ish'
+  host: 'sql12.freesqldatabase.com',
+  user: 'sql12803515',
+  password: 'Cg7PuIGG3q', 
+  database: 'sql12803515'
 };
 
 // Create database connection pool
